@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm SeoYoon</h1> <p align="center"> A developer who builds across the full stack — from frontend to backend and AI 🚀 </p> <br/> <h3>🧑‍💻 About Me</h3>
-🎓 Graduated from Keimyung University — <b>Biomedical Engineering</b> (major) + <b>Computer Science</b> (double major) <br/> 🌐 I enjoy building <b>full-stack</b> web services and bringing <b>AI</b> into them <br/> 🛠️ Gained hands-on experience through team projects like hackathons and datathons <br/> 📫 kim0502020@naver.com
+🎓 Graduated from Keimyung University — <b>Biomedical Engineering</b> (major) + <b>Computer Science</b> (double major) <br/> 🌐 I enjoy building <b>full-stack</b> web services and bringing <b>AI</b> into them <br/> 🛠️ Gained hands-on experience through team projects like hackathons and datathons <br/> 📫 kim5776411@gmail.com
 
 <br/><br/>
 
@@ -24,4 +24,4 @@
 
 <br/><br/>
 
-<p align="center"><sub>⭐ Thanks for visiting!</sub></p>
+<p align="center"><sub>Thanks for visiting!</sub></p>
