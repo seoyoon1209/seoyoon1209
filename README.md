@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm 서윤</h1> <p align="center"> 개발을 공부하는 전공 학생입니다 · 프론트엔드부터 백엔드, AI까지 직접 만들어보며 배우고 있어요 🚀 </p> <br/> <h3>🧑‍💻 About Me</h3>
-🎓 계명대학교 졸업 · <b>의용공학</b>(본전공) + <b>컴퓨터공학</b>(복수전공) <br/> 🌐 <b>풀스택</b>으로 웹 서비스를 만들고, <b>AI</b>를 붙여보는 걸 좋아해요 <br/> 🛠️ 해커톤·데이터톤 등 팀 프로젝트로 실전 경험을 쌓았어요 <br/> 📫 kim0502020@naver.com
+<h1 align="center">👋 Hi, I'm SeoYoon</h1> <p align="center"> A developer who builds across the full stack — from frontend to backend and AI 🚀 </p> <br/> <h3>🧑‍💻 About Me</h3>
+🎓 Graduated from Keimyung University — <b>Biomedical Engineering</b> (major) + <b>Computer Science</b> (double major) <br/> 🌐 I enjoy building <b>full-stack</b> web services and bringing <b>AI</b> into them <br/> 🛠️ Gained hands-on experience through team projects like hackathons and datathons <br/> 📫 kim0502020@naver.com
 
 <br/><br/>
 
@@ -24,4 +24,4 @@
 
 <br/><br/>
 
-<p align="center"><sub>⭐ 방문해주셔서 감사합니다!</sub></p>
+<p align="center"><sub>⭐ Thanks for visiting!</sub></p>
